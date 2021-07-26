@@ -11,21 +11,21 @@
 ## Comands
 
 ### For install all dependencies
-<code>
-npm install
-</code>
 
+```
+npm install
+```
 ### To create production folder
-<code>
+```
 npm run build
-</code>
+```
 
 ### To create development folfer 
-<code>
+```
 npm run build:dev
-</code>
+```
 
 ### To start local server
-<code>
+```
 npm start
-</code>
+```
