@@ -13,5 +13,3 @@ crearTodoHtml(tarea);
  */
 
 todoList.todos.forEach(crearTodoHtml);
-
-console.log('todos ', todoList.todos);
