@@ -69,11 +69,11 @@ module.exports = {
       filename: '[name].[fullhash].css', //'[name].[fullhash].css',
       ignoreOrder: false
     }),
-    new CopyPlugin({
+    /* new CopyPlugin({
       patterns: [
         { from: 'src/assets', to: "assets/" }
       ]
-    })
+    }) */
   ]
 
 
